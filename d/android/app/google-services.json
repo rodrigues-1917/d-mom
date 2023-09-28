@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246772563645",
+    "project_id": "diole-41ab4",
+    "storage_bucket": "diole-41ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246772563645:android:e8e6461916a106021801d4",
+        "android_client_info": {
+          "package_name": "com.example.d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFQZcVUWDi7q6x_-p9q6xM-TAuxVNF5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
